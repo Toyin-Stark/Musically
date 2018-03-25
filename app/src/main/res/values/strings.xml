@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Musically</string>
+    <string name="token">154071438584216|ibHmIqrEF3pc1TNGtwsZRRLxgAw</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="message">Open musical.ly app and copy a video link to download it on your device.</string>
+    <string name="empty">Downloader For Musical.ly</string>
+    <string name="fb_button">Open Muscial.ly</string>
+    <string name="learn">Watch Video</string>
+    <string name="bannerTitle">Downloading…</string>
+    <string name="home_tab">Home</string>
+    <string name="save_tab">Downloads</string>
+    <string name="sorry">Sorry this media cannot be downloaded</string>
+
+
+    <string name="content_image">Downloaded Image</string>
+    <string name="content_video">video button</string>
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+
+
+</resources>
